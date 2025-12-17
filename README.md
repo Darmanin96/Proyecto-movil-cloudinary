@@ -84,5 +84,13 @@ Al confirmar, recibirás un mensaje indicando que los datos se han ingresado cor
   <img width="400" alt="Mensaje de éxito" src="https://github.com/user-attachments/assets/cbef816a-460d-44d0-9d02-31ec11cdcc04" />
 </p>
 
----
 
+Ahora simplemente podemos ver en en nuestra cuenta de cloudinary se ha creado una carpeta.
+<p align="center">
+<img height="400" alt="" src="https://github.com/user-attachments/assets/26e2ce6a-8691-46d5-9e49-66a7befc3348" />
+</p>
+
+Donde podemos ver las imagenes que hemos introducido en el formulario
+<p align="center">
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/a786e9d3-ded6-4c27-92de-933038fbd662" />
+</p>
